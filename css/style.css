@@ -257,7 +257,7 @@ main{
 /*--sobre-mim-fim---------------------------------*/
 
 .section2{
-  background-image: url('/imagem/fundo-rosa.jpeg');
+  background: #E6B0AA;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
@@ -279,11 +279,11 @@ main{
   text-align: center;
   margin-top: 40px;
   padding-top: 25px;
-  color: #fff;
+  color: #CD6155;
   text-shadow: 1px 1px 2px #fff;
 }
 .line{
-  border-bottom: 3px solid #CD6155;
+  border-bottom: 3px solid #fff;
   margin: 0px 45% 0px 45%;
   margin-top: -5px; 
     
